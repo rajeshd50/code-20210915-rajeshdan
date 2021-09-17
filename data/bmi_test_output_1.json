@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "message": "BMI calculated",
+  "data": {
+    "Person": [
+      [
+        {
+          "Gender": "Female",
+          "HeightCm": 149,
+          "WeightKg": 52,
+          "BMI": 23.42,
+          "Category": "Normal weight",
+          "HealthRisk": "Low risk"
+        }
+      ]
+    ],
+    "totalOverweight": 0
+  },
+  "statusCode": 200
+}

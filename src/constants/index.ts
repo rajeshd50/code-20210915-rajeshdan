@@ -1,0 +1,2 @@
+export const BMI_CATEGORIES = ['Underweight','Normal weight','Overweight', 'Moderately obese','Severely obese','Very severely obese']
+export const HEALTH_RISK = ['Malnutrition risk','Low risk','Enhanced risk','Medium risk','High risk','Very high risk']
