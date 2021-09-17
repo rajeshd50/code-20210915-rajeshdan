@@ -60,3 +60,5 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+e2e testing added up-to 1000 input
