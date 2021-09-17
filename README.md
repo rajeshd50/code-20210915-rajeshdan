@@ -2,7 +2,7 @@
 
 BMI calculation (API only)
 
-[API Base link](https://code-20210915-rajeshdan.herokuapp.com/)
+[API Base link](https://code-20210915-rajeshdan.herokuapp.com/api/)
 
 BMI calculation endpoint: `api/calculate-bmi` POST
 
@@ -28,7 +28,8 @@ Response Sample
   }
 }
 ```
-
+Full Url of calculate bmi API
+[https://code-20210915-rajeshdan.herokuapp.com/api/calculate-bmi](https://code-20210915-rajeshdan.herokuapp.com/api/calculate-bmi)
 ## Installation
 
 ```bash
